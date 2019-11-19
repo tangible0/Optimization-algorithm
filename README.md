@@ -1,2 +1,2 @@
 # Optimization-algorithm
-Optimization algorithm based on MATLAB platform
+Optimization algorithm based on MATLAB 
